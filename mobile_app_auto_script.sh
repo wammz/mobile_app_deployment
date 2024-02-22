@@ -60,6 +60,10 @@ sh activate_debezium_mysql_connector.sh
 #
 # change dir to mobile app home
 cd $mobile_home_dir
+echo "Please log into EHR and create a user for the mobile app login"
+echo -e "**********\n
+Now, install the apk on the tablet and connect\n
+***********************"
 
 
 
